@@ -8,11 +8,13 @@
 
 提交：http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856
 
-12-1 UVa1671 History of Languages
+12-1 UVa1671 History of Languages                               UVa1671.cpp
 
-12-2 UVa1672 Disjoint Regular Expressions
+12-2 UVa1672 Disjoint Regular Expressions                       uva1672.cpp
 
-12-3 UVa1673 str2int
+12-3 UVa1673 str2int                                            UVa1673.cpp
+
+12-7 UVa12538 Version Controlled IDE                            UVa12538_rope.cpp
 
 [暂缺]12-4 UVa12161 Ironman Race in Treeland
 
@@ -20,7 +22,6 @@
 
 [暂缺]12-6 UVa1674 Lightning Energy Report
 
-12-7 UVa12538 Version Controlled IDE
 
 [暂缺]12-8 UVa805 Polygon Intersections
 

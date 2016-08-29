@@ -166,9 +166,66 @@ Chapter 9: 31/31
 
 Chapter 10: 29/29
 
+```
+10-1 UVa11582 Colossal Fibonacci Numbers!               ch10/UVa11582.cpp
+10-2 UVa12169 Disgruntled Judge                         ch10/UVa12169.cpp
+10-3 UVa10375 Choose and Divide                         ch10/UVa10375.cpp
+10-4 UVa10791 Minimum Sum LCM                           ch10/UVa10791.cpp
+10-5 UVa12716 GCD XOR                                   ch10/UVa12716.cpp
+10-6 UVa1635 Irrelevant Elements                        ch10/UVa1635.cpp
+10-7 UVa10820 Send a Table                              ch10/UVa10820.cpp
+10-8 UVa1262 Password                                   ch10/UVa1262.cpp
+10-9 UVa1636 Headshot                                   ch10/UVa1636.cpp
+10-10 UVa10491 Cows and Cars                            ch10/uva10491.cpp
+10-11 UVa11181 Probability|Given                        ch10/uva11181.cpp
+10-12 UVa1637 Double Patience                           ch10/UVa1637.cpp
+10-13 UVa580 Critical Mass                              ch10/UVa580.cpp
+10-14 UVa12034 Race                                     ch10/UVa12034.cpp
+10-15 UVa1638 Pole Arrangement                          ch10/UVa1638.cpp
+10-16 UVa12230 Crossing Rivers                          ch10/uva12230.cpp
+10-17 UVa1639 Candy                                     ch10/UVa1639.cpp
+10-18 UVa10288 Coupons                                  ch10/UVa10288.cpp
+10-19 UVa11346 Probability                              ch10/uva11346.cpp
+10-20 UVa10900 So you want to be a 2n-aire?             ch10/UVa10900.cpp
+10-21 UVa11971 Polygon                                  ch10/UVa11971.cpp
+10-22 UVa1640 The Counting Problem                      ch10/UVa1640.cpp
+10-23 UVa10213 How Many Pieces of Land?                 ch10/UVa10213.cpp
+10-24 UVa1641 ASCII Area                                ch10/UVa1641.cpp
+10-25 UVa1363 Joseph's Problem                          ch10/UVa1363.cpp
+10-26 UVa11440 Help Mr. Tomisu                          ch10/UVa11440.cpp
+10-27 UVa10214 Trees in a Wood                          ch10/UVa10214.cpp
+10-28 UVa1393 Highway                                   ch10/uva1393.cpp
+10-29 UVa1642 Magical GCD                               ch10/UVa1642.cpp
+```
+
 Chapter 11: 15/15
 
+```
+11-1 UVa12219 Common Subexpression Elimination          ch11/UVa12219.cpp
+11-2 UVa1395 Slim Span                                  ch11/UVa1395.cpp
+11-3 UVa1151 Buy or Build                               ch11/UVa1151.cpp
+11-4 UVa247 Calling Circles                             ch11/UVa247.cpp
+11-5 UVa10048 Audiophobia                               ch11/UVa10048.cpp
+11-6 UVa658 It's not a Bug, it's a Feature!             ch11/UVa658.cpp
+11-7 UVa753 A Plug for UNIX                             ch11/UVa753.cpp  UVa753b.cpp
+11-8 UVa11082 Matrix Decompressing                      ch11/UVa11082.cpp
+11-9 UVa1658 Admiral                                    ch11/UVa1658.cpp
+11-10 UVa1349 Optimal Bus Route Design                  ch11/UVa1349.cpp
+11-11 UVa12661 Funny Car Racing
+11-12 UVa1515 Pool construction                         ch11/UVa1515.cpp
+11-13 UVa10735 Euler Circuit                            ch11/UVa10735.cpp
+11-14 UVa1279 Asteroid Rangers                          ch11/UVa1279.cpp
+11-15 UVa1659 Help Little Laura                         ch11/UVa1659.cpp
+```
+
 Chapter 12: 4/37
+
+```
+12-1 UVa1671 History of Languages                       ch12/UVa1671.cpp
+12-2 UVa1672 Disjoint Regular Expressions               ch12/uva1672.cpp
+12-3 UVa1673 str2int                                    ch12/UVa1673.cpp
+12-7 UVa12538 Version Controlled IDE                    ch12/UVa12538_rope.cpp
+```
 
 Only chapter 12 is not finished. However, problems in this chapter is considerably more difficult,
 
